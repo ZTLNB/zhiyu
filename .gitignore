@@ -1,0 +1,10 @@
+data/
+*.exe
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+*.zip
+*.pid
+coverage.out

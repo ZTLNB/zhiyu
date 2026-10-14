@@ -1,0 +1,12 @@
+Zhiyu / 知屿
+
+The internal/chunk package and internal/common/type_conversion.go include
+code from RAGFlow, copyright 2026 The InfiniFlow Authors, licensed under
+the Apache License, Version 2.0. Source revision:
+296691996129816099125d2b1922c3f5196df71a.
+
+The local module import in internal/chunk/split.go has been modified.
+The application server, retrieval layer, interface, and packaging are new.
+Original copyright headers are retained in the included source files.
+
+PDF.js and JSZip are included with their license texts under legal/.
